@@ -59,7 +59,7 @@
                         <t t-set="colspan" t-value="colspan+1"/>
                     </th>
                     <th class="text-right">
-                        <span groups="account.group_show_line_subtotals_tax_excluded">Montant</span>
+                        <span groups="account.group_show_line_subtotals_tax_excluded">Montant HT</span>
                         <span groups="account.group_show_line_subtotals_tax_included">Prix Total</span>
                     </th>
                 </tr>
